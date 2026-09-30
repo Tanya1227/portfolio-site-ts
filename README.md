@@ -10,8 +10,7 @@ Hero · About · Skills · Experience · Projects · Education · Certifications
 
 ## Tech Stack
 
-- **Frontend:** React, Tailwind CSS, Framer Motion, Lenis, Radix UI
-- **Backend:** FastAPI, MongoDB
+- **Frontend:** React, Tailwind CSS, Framer Motion, Three.js, Lenis, Radix UI
 - **Deployment:** Vercel
 
 ## Run Locally
