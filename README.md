@@ -2,7 +2,7 @@
 
 A personal portfolio website that presents my profile, skills, experience, projects, education and certifications in one place.
 
-Live: https://portfolio-site-ts.vercel.app
+Live: https://tanya-singh-portfolio-dusky.vercel.app
 
 ## Sections
 
