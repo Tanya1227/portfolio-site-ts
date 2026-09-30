@@ -6,13 +6,13 @@ export const RESUME = {
     subtitle: 'React.js & TypeScript',
     tagline:
       'Software Engineer specialising in scalable, component-based web applications built with React.js, TypeScript, and JavaScript — reusable UI systems, RESTful API integration, and real-time, AI-powered features.',
-    location: 'Bangalore, Karnataka, India',
+    location: 'Indore, Madhya Pradesh, India',
     phone: '+91-9131414080',
     email: 'tanyasinghwork1227@gmail.com',
     linkedin: 'https://linkedin.com/in/tanya-singh-9b5492225',
     github: 'https://github.com/Tanya1227',
     years_experience: '2+',
-    availability: 'Available from 20 Sep 2026',
+    availability: 'Available from 10 Oct 2026',
     avatar: '/assets/memoji-avatar-transparent.webp',
   },
 
